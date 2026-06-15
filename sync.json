@@ -15,7 +15,7 @@
     "v": {
       "gl_todo": "[{\"text\":\"Buy/make birthday cake\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Plan Rocky Mountain hike\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Book Grand Lake cabin\",\"checked\":true,\"sub\":[],\"open\":false}]",
       "gl_shopping": "[{\"text\":\"tiramisu\",\"checked\":false,\"sub\":[{\"text\":\"cream cheese\",\"checked\":false},{\"text\":\"eggs\",\"checked\":false},{\"text\":\"instant coffee\",\"checked\":false},{\"text\":\"sugar\",\"checked\":false}],\"open\":true},{\"text\":\"Hiking snacks & water\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Warm layers & rain gear\",\"checked\":false,\"sub\":[],\"open\":false}]",
-      "cc_todo": "[{\"text\":\"Reserve horse rides\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Plan memorial day\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Pack camping gear\",\"checked\":true,\"sub\":[],\"open\":false}]",
+      "cc_todo": "[{\"text\":\"Reserve horse rides\",\"checked\":true,\"sub\":[],\"open\":false},{\"text\":\"Plan memorial day\",\"checked\":true,\"sub\":[],\"open\":false},{\"text\":\"Pack camping gear\",\"checked\":true,\"sub\":[],\"open\":false}]",
       "cc_shopping": "[{\"text\":\"test 4\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Sunscreen & bug spray\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Firewood & kindling\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Camp food & snacks\",\"checked\":false,\"sub\":[],\"open\":false}]",
       "pack_barbara_josh": "[{\"text\":\"Clothes & shoes\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Toiletries\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Documents & IDs\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Phone charger\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Medications\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Binoculars!\",\"checked\":false,\"sub\":[],\"open\":false}]",
       "pack_andrea": "[{\"text\":\"Clothes & shoes\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Toiletries\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Documents & IDs\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Phone charger\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Medications\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Binoculars!\",\"checked\":false,\"sub\":[],\"open\":false}]",
@@ -23,7 +23,7 @@
       "pack_tita_mathieu": "[{\"text\":\"Clothes & shoes\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Toiletries\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Documents & IDs\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Phone charger\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Medications\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Binoculars!\",\"checked\":false,\"sub\":[],\"open\":false}]",
       "pack_royal_dani_theo": "[{\"text\":\"Clothes & shoes\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Toiletries\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Documents & IDs\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Phone charger\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Medications\",\"checked\":false,\"sub\":[],\"open\":false},{\"text\":\"Binoculars!\",\"checked\":false,\"sub\":[],\"open\":false}]"
     },
-    "t": 1781513490597
+    "t": 1781515359491
   },
   "customStays": {
     "v": [],
