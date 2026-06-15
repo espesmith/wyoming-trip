@@ -5,10 +5,11 @@
         "place": "Crested Bute"
       },
       "2026-07-25": {
-        "place": "Arrival in Denver"
+        "place": "Arrival in Denver",
+        "notes": "Tita & Mathieu arrive at DEN — PM flight."
       }
     },
-    "t": 1781517196914
+    "t": 1781517200259
   },
   "tasks": {
     "v": [],
